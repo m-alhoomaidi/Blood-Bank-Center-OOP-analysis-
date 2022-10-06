@@ -1,0 +1,13 @@
+export * from './home'
+export * from './about_us'
+export * from './services'
+export * from './team'
+export * from './blog'
+export * from './join_us'
+export * from './contact_us'
+export * from './login'
+export * from './register'
+export * from './consultation'
+// staff section 
+export * from './staffSection/AddCase'
+export * from './staffSection/Case'
