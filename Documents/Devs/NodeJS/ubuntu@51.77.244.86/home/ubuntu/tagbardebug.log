@@ -1,0 +1,60 @@
+
+
+NVIM v0.7.0
+Build type: Release
+LuaJIT 2.1.0-beta3
+Compiled by runner@fv-az316-460
+
+Features: +acl +iconv +tui
+See ":help feature-compile"
+
+   system vimrc file: "$VIM/sysinit.vim"
+  fall-back for $VIM: "/share/nvim"
+
+Run :checkhealth for more info1970-01-01 05:14:55.458316: AutoUpdate called [/media/masta/D/projects/wedo/noor/src/controllers/providerController.ts]
+1970-01-01 05:14:55.458518: Vim filetype: 'typescript', sanitized filetype: 'typescript'
+1970-01-01 05:14:55.458614: Checking if file is valid [/media/masta/D/projects/wedo/noor/src/controllers/providerController.ts]
+1970-01-01 05:14:55.458791: Unsupported filetype: typescript
+1970-01-01 05:14:55.458872: Not a valid file, stopping processing
+1970-01-01 05:14:56.310622: ToggleWindow called
+1970-01-01 05:14:56.311032: OpenWindow called with flags: ''
+1970-01-01 05:14:56.318916: AutoUpdate called [/media/masta/D/projects/wedo/noor/__Tagbar__.1]
+1970-01-01 05:14:56.318992: Still opening window, stopping processing
+1970-01-01 05:14:56.325240: InitWindow called with autoclose: 0
+1970-01-01 05:14:56.329594: AutoUpdate called [/media/masta/D/projects/wedo/noor/__Tagbar__.1]
+1970-01-01 05:14:56.329690: In Tagbar window, stopping processing
+1970-01-01 05:14:56.331651: InitWindow finished
+1970-01-01 05:14:56.331772: AutoUpdate called [/media/masta/D/projects/wedo/noor/src/controllers/providerController.ts]
+1970-01-01 05:14:56.332017: Vim filetype: 'typescript', sanitized filetype: 'typescript'
+1970-01-01 05:14:56.332089: Checking if file is valid [/media/masta/D/projects/wedo/noor/src/controllers/providerController.ts]
+1970-01-01 05:14:56.332250: Unsupported filetype: typescript
+1970-01-01 05:14:56.332316: Not a valid file, stopping processing
+1970-01-01 05:14:56.377016: AutoUpdate called [/media/masta/D/projects/wedo/noor/src/controllers/providerController.ts]
+1970-01-01 05:14:56.377123: Vim filetype: 'typescript', sanitized filetype: 'typescript'
+1970-01-01 05:14:56.377273: Checking if file is valid [/media/masta/D/projects/wedo/noor/src/controllers/providerController.ts]
+1970-01-01 05:14:56.377535: Unsupported filetype: typescript
+1970-01-01 05:14:56.377611: Not a valid file, stopping processing
+1970-01-01 05:14:56.377943: OpenWindow finished
+1970-01-01 05:14:56.378018: ToggleWindow finished
+1970-01-01 05:14:56.826903: AutoUpdate called [/media/masta/D/projects/wedo/noor/src/controllers/providerController.ts]
+1970-01-01 05:14:56.827233: Vim filetype: 'typescript', sanitized filetype: 'typescript'
+1970-01-01 05:14:56.827362: Checking if file is valid [/media/masta/D/projects/wedo/noor/src/controllers/providerController.ts]
+1970-01-01 05:14:56.827790: Unsupported filetype: typescript
+1970-01-01 05:14:56.827925: Not a valid file, stopping processing
+1970-01-01 05:14:57.531256: ToggleWindow called
+1970-01-01 05:14:57.531656: CloseWindow called
+1970-01-01 05:14:57.532163: goto_win(): 2wincmd w, 0
+1970-01-01 05:14:57.543677: AutoUpdate called [/media/masta/D/projects/wedo/noor/__Tagbar__.1]
+1970-01-01 05:14:57.543963: In Tagbar window, stopping processing
+1970-01-01 05:14:57.552371: AutoUpdate called [/media/masta/D/projects/wedo/noor/src/controllers/providerController.ts]
+1970-01-01 05:14:57.552475: Vim filetype: 'typescript', sanitized filetype: 'typescript'
+1970-01-01 05:14:57.552507: Checking if file is valid [/media/masta/D/projects/wedo/noor/src/controllers/providerController.ts]
+1970-01-01 05:14:57.552610: Unsupported filetype: typescript
+1970-01-01 05:14:57.552680: Not a valid file, stopping processing
+1970-01-01 05:14:57.552767: goto_win(): 1wincmd w, 0
+1970-01-01 05:14:57.552859: CloseWindow finished
+1970-01-01 05:14:58.205432: AutoUpdate called [/media/masta/D/projects/wedo/noor/src/controllers/providerController.ts]
+1970-01-01 05:14:58.205815: Vim filetype: 'typescript', sanitized filetype: 'typescript'
+1970-01-01 05:14:58.205964: Checking if file is valid [/media/masta/D/projects/wedo/noor/src/controllers/providerController.ts]
+1970-01-01 05:14:58.206354: Unsupported filetype: typescript
+1970-01-01 05:14:58.206483: Not a valid file, stopping processing
